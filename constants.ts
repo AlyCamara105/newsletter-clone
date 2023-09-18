@@ -17,7 +17,7 @@ export const socials = [
 
 const title = "Aly Camara";
 const description = "Frontend developer 🧑🏻‍💻 working with cutting-edge stuff.";
-const image = "";
+const image = "favicon.ico";
 
 export const metaData: Metadata = {
   title: title,
